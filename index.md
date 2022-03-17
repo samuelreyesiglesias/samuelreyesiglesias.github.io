@@ -1,6 +1,7 @@
 ## Welcome to My GitHub Page
 
-Hola, Soy Samuel Reyes y es un placer enorme saludarte, bienvenido seas a mi rincon de internet, [SamuelReyesIglesias](https:///samuelreyesiglesias.github.io) , este espacio donde estaré compartiendo contigo un poco de mi aventura como desarrollador de software.
+Hola, Soy Samuel Reyes y es un placer enorme saludarte, bienvenido seas a mi rincon de internet, [SamuelReyesIglesias](https:///samuelreyesiglesias.github.io), 
+este espacio donde estaré compartiendo contigo un poco de mi aventura como desarrollador de software.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
